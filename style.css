@@ -14,8 +14,10 @@ h1 img{
 
 h2{
 
-
+    text-align: center;
     color: black;
+
+    font-variant: initial;
 }
 
 
@@ -24,8 +26,29 @@ h2 img{
     vertical-align: middle;
 }
 
+h3{
+
+    text-align: center;
+}
+
+h3 img {
+
+    vertical-align: middle;
+}
 
 h4{
 
-    vertical-align: bottom;
+    font-weight: bold;
+
+    font-style: oblique;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
 }
+
+
+a{
+    
+    vertical-align: middle;
+}
+
